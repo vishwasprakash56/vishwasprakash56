@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @vishwasprakash56
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-vishwasprakash56/vishwasprakash56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Vishwas P
+- 👀 I’m interested in Data analysis
+- 🌱 I’m currently learning and building projects using Power BI, SQL, and Advance Excel
+- 💞️ I’m looking to collaborate on full time data analyst/business analyst job roles
+- 🌱 I’m skilled in Power BI, SQL, and Advance Excel
+- 📫 How to reach me Email - vishwasprakash56@gmail.com  Linkedin - https://www.linkedin.com/in/vishwas-p-91b1b023a/
