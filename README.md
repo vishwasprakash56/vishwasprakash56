@@ -48,7 +48,7 @@
 
 Here are a few projects that show my journey in data analysis and Power BI:
 
-- **📁 Excel HR Dashboard** – [View Repository](#)
+- **📁 Excel-Sales-Analytics** – [View Repository](#)
 
 
 ---
