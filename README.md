@@ -48,12 +48,9 @@
 
 Here are a few projects that show my journey in data analysis and Power BI:
 
-- **📁 Excel-Sales-Analytics** – [View Repository](#)
+- **📁 Excel-Sales-Analytics** – [https://github.com/vishwasprakash56/Excel-Sales-Analytics](#)
 
 
 ---
 
-<!-- Footer Badge (Optional) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VishwasP&label=Profile%20views&color=0e75b6&style=flat" alt="Vishwas's Profile Views" />
-</p>
+
