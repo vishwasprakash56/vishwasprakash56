@@ -1,4 +1,4 @@
-<!-- Profile Banner (optional) -->
+<!--  (Optional) -->
 <img src="https://raw.githubusercontent.com/VishwasP/VishwasP/main/assets/header.png" alt="Welcome banner" style="width:100%; border-radius: 10px;" />
 
 <h1 align="center">Hi 👋, I'm Vishwas</h1>
