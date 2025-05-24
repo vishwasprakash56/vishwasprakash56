@@ -1,5 +1,5 @@
-<!--  https://github.com/vishwasprakash56/vishwasprakash56/blob/2dac9f3a8612906ee90804608b73c1da2ab52bb6/AI_enabled_DA_2.png(Optional) -->
-<img src="https://raw.githubusercontent.com/VishwasP/VishwasP/main/assets/header.png" alt="Welcome banner" style="width:100%; border-radius: 10px;" />
+![image alt](https://github.com/vishwasprakash56/vishwasprakash56/blob/2dac9f3a8612906ee90804608b73c1da2ab52bb6/AI_enabled_DA_2.png)
+
 
 <h1 align="center">Hi 👋, I'm Vishwas</h1>
 
